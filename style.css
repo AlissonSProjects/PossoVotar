@@ -10,7 +10,7 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    background-color: #03152e;
+    background-color: #4B0082;
     color: white;
 }
 
@@ -24,7 +24,7 @@ main {
 }
 
 .divIdade, .divCalc {
-    width: 500px;
+    width: 350px;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -40,7 +40,7 @@ input, button {
 
 button{
     cursor: pointer;
-    background-color: #6f00ff;
+    background-color: #4682B4;
     color: white;   
 }
 
